@@ -13,5 +13,6 @@ export default {
 <style scoped>
     h1 {
         color: slateblue;
+        text-align: center;
     }
 </style>
